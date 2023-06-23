@@ -6,3 +6,6 @@ Este projeto consiste em um código de programação desenvolvido para gerar ale
 * Html
 * Css
 * JavaScript
+## Link do site  
+
+https://sorteador-megasena.netlify.app/
